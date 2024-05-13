@@ -1,0 +1,8 @@
+# ignore ALL .log files
+* .log
+
+# ignore directorys
+temp/
+bin
+obj
+packages
