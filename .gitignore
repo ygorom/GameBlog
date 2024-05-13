@@ -6,3 +6,5 @@ temp/
 bin
 obj
 packages
+.vscode
+.editorconfig
